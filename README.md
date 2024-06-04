@@ -1,17 +1,7 @@
 
 # Fullstack Web Development 2024
 
-## Language
-
-![html]![css]![js]
-
-## FrameWork
-
-![bootstrap]![jqeury]![reactjs]![nodejs]![expressjs]
-
-## Database
-
-![postgres]
+![html]![css]![js]![bootstrap]![jqeury]![reactjs]![nodejs]![expressjs]![postgres]
 
 <!-- Variable -->
 [html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
