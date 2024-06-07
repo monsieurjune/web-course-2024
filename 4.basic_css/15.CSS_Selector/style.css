@@ -1,0 +1,31 @@
+p {
+    color: #FF0000;
+}
+
+ol {
+    margin-left: -2.25rem;
+    margin-top: -1rem;
+    list-style-position: inside;
+}
+
+.note {
+    font-size: 20px;
+}
+
+#author {
+    color: #000000;
+    margin-top: -1.0rem;
+    margin-bottom: 1.25rem;
+}
+
+#id-selector-demo {
+    color: #00FF00;
+}
+
+li[value="4"] {
+    color: #0000FF;
+}
+
+* {
+    text-align: center;
+}
