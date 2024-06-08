@@ -1,0 +1,40 @@
+body {
+    background-color: #000000;
+}
+
+.image {
+    border: 0.5rem solid white;
+    width: 45%;
+    aspect-ratio: 16 / 9;
+}
+
+.image-frame {
+    text-align: center;
+    padding: 0%;
+    margin-top: 3rem;
+}
+
+.big-text-frame {
+    margin-top: -1.25rem;
+    margin-bottom: 0rem;
+    text-align: center;
+}
+
+.big-text {
+    color: #FFFFFF;
+    font-size: 3rem;
+    font-family: monospace;
+    font-weight: 900;
+}
+
+.small-text-frame {
+    color: #FFFFFF;
+    margin-top: -1.5rem;
+    text-align: center;
+}
+
+.small-text {
+    font-size: 1.25rem;
+    font-family: monospace;
+    font-weight: 600;
+}
