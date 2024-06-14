@@ -1,0 +1,43 @@
+@media (min-width: 1201px) {
+    .header {
+        margin-top: 3rem;
+        margin-left: 1rem;
+        margin-bottom: 0%;
+        height: 20rem;
+        width: 35rem;
+    }
+    .header-text-frame {
+        margin-top: 4rem;
+        font-size: 3rem;
+        font-weight: 600;
+    }
+    .header-upper-text {
+        display: inline;
+        margin-bottom: 0%;
+    }
+    .header-bottom-text {
+        display: block;
+        margin-top: 3%;
+    }
+    .card {
+        width: 45%;
+    }
+    .tile-image {
+        height: 15rem;
+        aspect-ratio: 4 / 3;
+        float: left;
+        margin-right: 1rem;
+    }
+    .left {
+        float: left;
+        margin-bottom: 30px;
+        text-align: justify;
+    }
+    .right {
+        float: right;
+        margin-bottom: 30px;
+        text-align: justify;
+    }
+    
+
+}
